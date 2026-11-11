@@ -103,11 +103,6 @@ modele-solow/
 - TFP is computed as a **residual**: it measures our ignorance as much as efficiency.
 - The comparison is between steady states, while both economies may still be in transition.
 
-## Next steps
-
-- Test absolute vs conditional convergence and convergence clubs with the Penn World Tables.
-- Compute the Solow residual for Morocco over a long period.
-- Link TFP to economic complexity (Hausmann): see [Development-Beyond-Industrialization](https://github.com/Imrane-Alami/Development-Beyond-Industrialization-Testing-Rodrik-and-Hausmann-with-Cross-Country-Data).
 
 ## Reference
 
